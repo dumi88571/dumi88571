@@ -23,7 +23,9 @@
 ## 📌 Featured Projects  
 1. **🌾 Crop Prediction App** – Predicts optimal crops based on environmental conditions and soil data.  
 2. **🚗 Car Price Prediction** – Uses ML regression models to estimate the price of a used car.  
-3. **🏥 Health Advisor App** – Simple AI-based system that provides health recommendations based on different attributes .  
+3. **🏥 Health Advisor App** – Simple AI-based system that provides health recommendations based on different attributes .
+4. **🏥 Financial Sentiment Analysis** – Financial sentiment analysis applies natural language processing techniques to extract and quantify positive, negative, or neutral investor emotions and opinions from financial texts like news, social media, and reports.
+   
 
 ## 📫 Connect With Me  
 - 📧 **Email:** dumisanimabhugu29@gmail.com  
