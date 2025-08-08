@@ -8,7 +8,9 @@
 - 🔭 **Projects I've worked on:**  
   - 🌾 Crop Prediction App – Predicts crop yield based on environmental data  
   - 🚗 Car Price Prediction – Estimates car prices using regression models  
-  - 🏥 Health Advisor App – Provides health tips based on different attribute 
+  - 🏥 Health Advisor App – Provides health tips based on different attribute
+  -  🏥 Financial Sentiment Analysis – Provides sentiment reviews based on different opinions from financial texts and reviews 
+
 
 ---
 
