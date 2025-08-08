@@ -2,7 +2,7 @@
 
 ## 🎯 About Me  
 - 🎓 **BSc Data Science Student** at **Adikavi Nannaya University**  
-- 💡 Passionate about **Machine Learning**, **Data Visualization**, and **Exploratory Data Analysis (EDA)**  
+- 💡 Passionate about **Machine Learning**, **Data Visualization**, and **Exploratory Data Analysis (EDA)** 
 - 📊 Interested in applying **AI and analytics** to solve real-world problems  
 - 📚 Constantly learning and experimenting with **new technologies**  
 - 🔭 **Projects I've worked on:**  
@@ -17,7 +17,7 @@
 **Programming Languages:** Python, SQL, Java, C  
 **Data Science & AI:** Pandas, NumPy, Matplotlib, Scikit-learn, Data Cleaning, EDA, Machine Learning Models,Deep Learning  
 **Web Development:** JavaScript, HTML5, CSS  
-**Other Tools & Technologies:** Git, Jupyter Notebook, VS Code  
+**Other Tools & Technologies:** Git, Jupyter Notebook, VS Code,DBMS,Software Engineering 
 
 
 ## 📌 Featured Projects  
