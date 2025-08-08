@@ -23,7 +23,7 @@
 ## 📌 Featured Projects  
 1. **🌾 Crop Prediction App** – Predicts optimal crops based on environmental conditions and soil data.  
 2. **🚗 Car Price Prediction** – Uses ML regression models to estimate the price of a used car.  
-3. **🏥 Health Advisor App** – Simple AI-based system that provides health tips based on symptoms.  
+3. **🏥 Health Advisor App** – Simple AI-based system that provides health recommendations based on different attributes .  
 
 ## 📫 Connect With Me  
 - 📧 **Email:** dumisanimabhugu29@gmail.com  
