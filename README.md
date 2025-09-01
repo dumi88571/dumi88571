@@ -8,8 +8,7 @@
 - 🔭 **Projects I've worked on:**  
   - 🌾 Crop Prediction App – Predicts crop yield based on environmental data  
   - 🚗 Car Price Prediction – Estimates car prices using regression models
-  - 🏥GGold prediction Analyzer**- This project helps companies track daily profit and loss in gold production by analyzing key inputs such as shift schedules, number of workers, ore quality, weather conditions, equipment operation time, and the amount of gold produced each day. By integrating these factors, it provides valuable insights for optimizing mining operations and improving financial outcomes.
-  -  
+  - 🏥Gold prediction Analyzer**- This project helps companies track daily profit and loss in gold production by analyzing key inputs such as shift schedules, number of workers, ore quality, weather conditions, equipment operation time, and the amount of gold produced each day. By integrating these factors, it provides valuable insights for optimizing mining operations and improving financial outcomes.
   -  🏥 Financial Sentiment Analysis – Provides sentiment reviews based on different opinions from financial texts and reviews 
 
 
