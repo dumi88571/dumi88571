@@ -7,7 +7,7 @@
 - 📚 Constantly learning and experimenting with **new technologies**  
 - 🔭 **Projects I've worked on:**  
   - 🌾 Crop Prediction App – Predicts crop yield based on environmental data  
-  - 🚗 Car Price Prediction – Estimates car prices using regression models
+  - 🚗 Car Price Prediction – Estimates car prices using deep learning model
   - ⛏️🥇Gold prediction Analyzer**- This project helps companies track daily profit and loss in gold production by analyzing key inputs such as shift schedules, number of workers, ore quality, weather conditions, equipment operation time, and the amount of gold produced each day. By integrating these factors, it provides valuable insights for optimizing mining operations and improving financial outcomes.
   -  🏥 Financial Sentiment Analysis – Provides sentiment reviews based on different opinions from financial texts and reviews 
 
@@ -23,9 +23,11 @@
 
 ## 📌 Featured Projects  
 1. **🌾 Crop Prediction App** – Predicts optimal crops based on environmental conditions and soil data.  
-2. **🚗 Car Price Prediction** – Uses ML regression models to estimate the price of a used car.  
+2. **🚗 Car Price Prediction** – Uses deep learning model to estimate the price of a used car.  
 3. **⛏️🥇Gold Prediction Analyzer**- This project helps companies track daily profit and loss in gold production by analyzing key inputs such as shift schedules, number of workers, ore quality, weather conditions, equipment operation time, and the amount of gold produced each day. By integrating these factors, it provides valuable insights for optimizing mining operations and improving financial outcomes.
 4. **🏥 Financial Sentiment Analysis** – Financial sentiment analysis applies natural language processing techniques to extract and quantify positive, negative, or neutral investor emotions and opinions from financial texts like news, social media, and reports.
+5. 👨‍🍳 / 👩‍🍳 Restaurant Menu Optimizer**- It is an AI-powered restaurant menu optimizer designed to help manage menu items, sales, and costs efficiently.
+   It provides real-time profitability analysis, pricing recommendations, and trend insights to maximize restaurant success
    
 
 ## 📫 Connect With Me  
