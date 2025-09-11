@@ -2,15 +2,15 @@
 
 ## 🎯 About Me  
 - 🎓 **BSc Data Science Student** at **Adikavi Nannaya University**  
-- 💡 Passionate about **Machine Learning**, **Data Visualization**, and **Exploratory Data Analysis (EDA)** 
+- 💡 Passionate about **Machine Learning**, **Data Visualization**,**Deep Learning** and **Exploratory Data Analysis (EDA)** 
 - 📊 Interested in applying **AI and analytics** to solve real-world problems  
 - 📚 Constantly learning and experimenting with **new technologies**  
 - 🔭 **Projects I've worked on:**  
-  - 🌾 Crop Prediction App – Predicts crop yield based on environmental data  
-  - 🚗 Car Price Prediction – Estimates car prices using deep learning model
-  - ⛏️🥇Gold prediction Analyzer**- This project helps companies track daily profit and loss in gold production by analyzing key inputs such as shift schedules, number of workers, ore quality, weather conditions, equipment operation time, and the amount of gold produced each day. By integrating these factors, it provides valuable insights for optimizing mining operations and improving financial outcomes.
-  -  🏥 Financial Sentiment Analysis – Provides sentiment reviews based on different opinions from financial texts and reviews
-  -   📊🌿AGRICULTURE AI APP- It is a comprehensive agricultural AI platform app that manages farm data, performs crop yield predictions, pest detection, irrigation optimization, soil health analysis, and more using integrated machine learning models. 🌱🤖
+- 🌾 **Crop Prediction App** – Predicts crop yield based on environmental data  
+- 🚗 **Car Price Prediction** – Estimates car prices using deep learning model
+- ⛏️🥇**Gold prediction Analyzer**- This project helps companies track daily profit and loss in gold production by analyzing key inputs such as shift schedules, number of workers, ore quality, weather conditions, equipment operation time, and the amount of gold produced each day. By integrating these factors, it provides valuable insights for optimizing mining operations and improving financial outcomes.
+-  🏥 **Financial Sentiment Analysis** – Provides sentiment reviews based on different opinions from financial texts and reviews
+-   **📊🌿AGRICULTURE AI APP**- It is a comprehensive agricultural AI platform app that manages farm data, performs crop yield predictions, pest detection, irrigation optimization, soil health analysis, and more using integrated machine learning models. 🌱🤖
 
 
 
