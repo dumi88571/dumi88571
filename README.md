@@ -2,7 +2,7 @@
 
 ## 🎯 About Me  
 - 🎓 **BSc Data Science Student** at **Adikavi Nannaya University**  
-- 💡 Passionate about **Machine Learning**, **Data Visualization**,**Deep Learning** and **Exploratory Data Analysis (EDA)** 
+- 💡 Passionate about **Machine Learning**, **Data Visualization**,**Deep Learning** , **Web Development** and **Exploratory Data Analysis (EDA)** 
 - 📊 Interested in applying **AI and analytics** to solve real-world problems  
 - 📚 Constantly learning and experimenting with **new technologies**  
 - 🔭 **Projects I've worked on:**  
