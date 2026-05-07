@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dumisani Mabhugu  
 
 ## 🎯 About Me  
-- 🎓 **BSc Data Science Student** at **Adikavi Nannaya University**  
+- 🎓 **BSc Data Science Graduate** 
 - 💡 Passionate about **Machine Learning**, **Data Visualization**,**Deep Learning** , **Web Development** and **Exploratory Data Analysis (EDA)** 
 - 📊 Interested in applying **AI and analytics** to solve real-world problems  
 - 📚 Constantly learning and experimenting with **new technologies**  
